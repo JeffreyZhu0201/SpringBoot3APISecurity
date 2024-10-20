@@ -1,6 +1,6 @@
 package com.example.springboot3security.repositories;
 
-import com.tericcabrel.authapi.entities.User;
+import com.example.springboot3security.entities.User;
 import jakarta.annotation.Resource;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

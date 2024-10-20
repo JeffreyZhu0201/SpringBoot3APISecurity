@@ -1,7 +1,7 @@
 package com.example.springboot3security.configs;
 
 
-import com.tericcabrel.authapi.repositories.UserRepository;
+import com.example.springboot3security.repositories.UserRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
